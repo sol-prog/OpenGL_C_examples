@@ -1,1 +1,1 @@
-# OpenGL_C_examples
+# OpenGL GLUT (FreeGLUT) C examples
